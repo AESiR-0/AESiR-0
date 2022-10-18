@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AESiR-0
-- 👀 I’m interested in Ai & ML
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Web dev
+- 🌱 I’m currently learning Python, microservice-architectures and Js and its frameworks
 - 📫 How to reach me : Twitter - @PrathamChellan5
                        LinkedIn - Pratham Chellani
                        Instagram - @pratt_1.0
