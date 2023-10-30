@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AESiR-0
 - 👀 I’m interested in Web dev
-- 🌱 I’m currently learning Python, microservice-architectures and React.js
+- 🌱 I’m currently doing MERN stack
 - 📫 How to reach me : Twitter - @PrathamChellan5
                        LinkedIn - Pratham Chellani
                        Instagram - @pratt.css
