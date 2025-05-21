@@ -1,4 +1,4 @@
-### Hey, I’m Pratham Chellani '(aka prat)' (@AESiR-0)
+### Hey, I’m Pratham Chellani (@AESiR-0 or Prat)
 
 Full-stack developer. Design enjoyer. System-overthinker.  
 Started building websites in 10th grade and never really stopped — still trying to make pixels behave and servers not explode.
