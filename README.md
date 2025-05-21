@@ -1,12 +1,19 @@
-### Hi, I'm Pratham Chellani (@AESiR-0)
+### Hey, I’m Pratham Chellani '(aka prat)' (@AESiR-0)
 
-I'm a full-stack developer with a focus on building scalable web applications and system architectures. Currently working with modern technologies like **Next.js**, **TypeScript**, **Supabase**, and **Drizzle ORM**.
+Full-stack developer. Design enjoyer. System-overthinker.  
+Started building websites in 10th grade and never really stopped — still trying to make pixels behave and servers not explode.
 
-- 🔧 Actively developing [DaftarOS](https://github.com/AESiR-0) – a platform streamlining collaboration between founders, investors, and scouts
-- 🌐 Interested in system design, developer tooling, and AI-assisted workflows
-- 🧱 Building with: Next.js (App Router), TailwindCSS, Shadcn/UI, Supabase, Drizzle ORM
-- 🧠 Exploring: event-driven systems, Git-style versioning for different medias (aspire to build my own pied piper), and scalable CMS integrations
+Currently juggling product, design, and development across multiple projects (because sleep is overrated, right?).
 
-📫 Connect with me:
+- 🛠️ Building [DaftarOS](https://github.com/AESiR-0) — a platform connecting founders, investors, and scouts, with just the right amount of chaos
+- 🎨 Designed & developed beautiful frontends like:
+  - [Mad Labs](https://mad-labs-iota.vercel.app)
+  - [TUD Ai Landing Page](https://tud-may.vercel.app/demo_2)
+  - [Team K Landing Page](https://cbdind.vercel.app)
+  - [Ideal Image Landing Page](https://idealimage-aesthetics.com)
+- 🧱 Working with Postgres, sprinkling in some NoSQL magic when things get weird
+- 🧠 Currently exploring system architecture (read: breaking things in the name of scalability) and blockchain tech (because why not decentralize your problems?)
+
+📫 If you’ve made it this far, you might as well connect:
 - [LinkedIn](https://linkedin.com/in/pratham-chellani)
 - [Twitter](https://twitter.com/PrathamChellan5)
